@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningMVC", "LearningMVC\LearningMVC.csproj", "{F628B6F3-4C53-413F-9DAA-E3D8C4F45170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningMVC.Tests", "LearningMVC.Tests\LearningMVC.Tests.csproj", "{2BEEB0BE-8BB1-4DA6-8F3E-0C5F7EF770A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C21MIT.RTIB.BLL", "C21MIT.RTIB.BLL\C21MIT.RTIB.BLL.csproj", "{7B864B44-3896-4903-A920-56050E52D1C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F628B6F3-4C53-413F-9DAA-E3D8C4F45170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F628B6F3-4C53-413F-9DAA-E3D8C4F45170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F628B6F3-4C53-413F-9DAA-E3D8C4F45170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F628B6F3-4C53-413F-9DAA-E3D8C4F45170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEEB0BE-8BB1-4DA6-8F3E-0C5F7EF770A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEEB0BE-8BB1-4DA6-8F3E-0C5F7EF770A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEEB0BE-8BB1-4DA6-8F3E-0C5F7EF770A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEEB0BE-8BB1-4DA6-8F3E-0C5F7EF770A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B864B44-3896-4903-A920-56050E52D1C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B864B44-3896-4903-A920-56050E52D1C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B864B44-3896-4903-A920-56050E52D1C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B864B44-3896-4903-A920-56050E52D1C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
