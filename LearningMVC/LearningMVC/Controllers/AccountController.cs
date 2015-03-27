@@ -18,8 +18,13 @@ namespace LearningMVC.Controllers
         
         public ActionResult Login()
         {
-            string userName = Model.userName;
-            string passWord = passWord;
+            //string userName = username;
+            //string passWord = password;
+            return View();
+        }
+
+        public ActionResult Home()
+        {
             return View();
         }
 
