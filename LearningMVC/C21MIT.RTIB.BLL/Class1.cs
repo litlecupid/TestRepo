@@ -8,5 +8,6 @@ namespace C21MIT.RTIB.BLL
 {
     public class Class1
     {
+        //this is a comment.
     }
 }
